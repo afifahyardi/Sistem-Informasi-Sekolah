@@ -1,8 +1,8 @@
 <footer class="main-footer">
     <div class="footer-left">
-        Copyright &copy; {{ now()->year }} <div class="bullet"></div> Develop By <a href="https://ankhdigital.com">ANKH Digital</a>
+        Copyright &copy; {{ now()->year }} <div class="bullet"></div> Create by <a href=>bootcamp finals</a>
     </div>
     <div class="footer-right">
-        2.3.0
+        18.0.3
     </div>
 </footer>
